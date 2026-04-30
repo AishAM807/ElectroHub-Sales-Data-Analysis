@@ -31,6 +31,8 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 <img width="822" height="515" alt="Image" src="https://github.com/user-attachments/assets/438a128f-de72-48f6-b870-efa67dfdd696" />
 
 
+
 - Step 4: Attempted to resolve the issue using a Merge Query by linking the fact table with the Dim Product table, as the Price per Unit column was available there. This allowed the required column to be brought into the fact table.
+  
 
 <img width="681" height="639" alt="Image" src="https://github.com/user-attachments/assets/651fe53e-fc65-456d-8486-9c1f8d166d94" />
