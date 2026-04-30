@@ -8,7 +8,7 @@
 ### Data Source: Excel Workbook 
 
 ## Problem Statement:
-In this project, I will take on the role of a Data Analyst at ElectroHub, focusing on delivering data-driven insights. Customers at ElectroHub purchase products from multiple categories, including electronics, footwear, clothing, home appliances, bags, accessories, kitchenware, and personal care items.
+In this project, I will take on the role of a Data Analyst at ElectroHub, focusing on delivering data-driven insights. Customers at ElectroHub purchase products from multiple categories, including electronics, footwear, clothing, home appliances, bags, accessories, kitchenware, and personal care items. The objective of this project is to analyze ElectroHub’s sales data to uncover meaningful business insights related to sales performance, customer purchasing patterns, and promotion effectiveness. The raw data presents several challenges, including missing values, inconsistent data formats, and fragmented datasets, which must be addressed to enable accurate analysis and build an interactive reporting solution in Power BI.
 
 ## Tasks:
 
