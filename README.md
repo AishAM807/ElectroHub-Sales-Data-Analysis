@@ -55,3 +55,15 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 - Step 8: Similarly, to calculate Net Sales, a custom column function was used to create a new column in the Fact table.
 
 <img width="685" height="434" alt="Image" src="https://github.com/user-attachments/assets/9eddaf32-6db5-4095-9a13-af521eefe9b4" />
+
+- Step 9: To add the Profit column, Profit was assumed to be 10% of Net Sales, and a custom column function was used to successfully incorporate it into the Fact table.
+
+
+  
+- Step 10: To complete the first task, a new report view page was developed, where bar charts were implemented to visualize the top/bottom 5 products by sales, profit, and units sold.
+
+  
+- Step 11: The Filter Pane was utilized to filter and display the Top 5 and Bottom 5 products by Sales, Profit, and Units Sold.
+
+ # Report Snapshot (Power BI DESKTOP)
+
