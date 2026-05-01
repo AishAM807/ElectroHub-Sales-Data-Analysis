@@ -58,7 +58,7 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 
 - Step 9: To add the Profit column, Profit was assumed to be 10% of Net Sales, and a custom column function was used to successfully incorporate it into the Fact table.
 
-
+<img width="693" height="445" alt="Image" src="https://github.com/user-attachments/assets/78a77a1c-f0c4-472d-a3fb-b60f943a8847" />
   
 - Step 10: To complete the first task, a new report view page was developed, where bar charts were implemented to visualize the top/bottom 5 products by sales, profit, and units sold.
 
@@ -67,3 +67,4 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 
  # Report Snapshot (Power BI DESKTOP)
 
+<img width="889" height="500" alt="Image" src="https://github.com/user-attachments/assets/13cb15f2-7459-4b2c-95d5-7cc29a4b773f" />
