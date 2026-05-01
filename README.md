@@ -40,12 +40,18 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 
 - Step 5: To calculate the total sales, a custom column function was implemented, as illustrated below.
 
+
+<img width="689" height="443" alt="Image" src="https://github.com/user-attachments/assets/6862e130-37d0-4cc5-9d17-739f0a6c9c97" />
+
   
 - Step 6: The Discount Percentage values were sourced from the Promotion table by using a Merge Query, joining on Promotion ID as the primary key to integrate the data into the Fact table.
   
-  
+<img width="680" height="634" alt="Image" src="https://github.com/user-attachments/assets/e8e62d77-0588-47ae-bffa-cce615bf090d" />
+
 - Step 7: To calculate the Discount value, a custom column function was applied, as illustrated below.
 
+<img width="688" height="441" alt="Image" src="https://github.com/user-attachments/assets/3de4f166-ec53-4f94-b1ee-627bd618e611" />
   
 - Step 8: Similarly, to calculate Net Sales, a custom column function was used to create a new column in the Fact table.
 
+<img width="685" height="434" alt="Image" src="https://github.com/user-attachments/assets/9eddaf32-6db5-4095-9a13-af521eefe9b4" />
