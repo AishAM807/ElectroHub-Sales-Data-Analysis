@@ -68,3 +68,17 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
  # Report Snapshot (Power BI DESKTOP)
 
 <img width="889" height="500" alt="Image" src="https://github.com/user-attachments/assets/13cb15f2-7459-4b2c-95d5-7cc29a4b773f" />
+
+
+- Step 12: To complete Task 2, a line chart was created from the visualization pane to represent sales across different time periods (day, month, quarter, and year). The drill-down and drill-up functionalities were utilized to effectively analyze sales trends over time.
+
+- Step 13: For Task 3, a scatter chart was utilized to analyze and represent the relationship between sales and profit.
+  
+- Step 14: To complete Task 4, a bar chart was selected to display the average discount across different promotion categories.
+  
+- Step 15: In Task 8, a map visual was implemented to analyze the geographical distribution of sales across different cities.
+  
+- Step 16: To complete Task 6, a card visual was used to display the total number of orders. An index column was created in the fact table using Power Query to calculate the total orders, assuming each order is unique.
+
+ # Report Snapshot (Power BI DESKTOP)
+
