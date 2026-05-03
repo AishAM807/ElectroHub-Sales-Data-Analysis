@@ -82,3 +82,4 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 
  # Report Snapshot (Power BI DESKTOP)
 
+<img width="1036" height="498" alt="Image" src="https://github.com/user-attachments/assets/2428371a-d4e4-4543-a1b3-a70cc6aed6e7" />
