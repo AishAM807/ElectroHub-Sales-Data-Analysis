@@ -83,3 +83,27 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
  # Report Snapshot (Power BI DESKTOP)
 
 <img width="1036" height="498" alt="Image" src="https://github.com/user-attachments/assets/2428371a-d4e4-4543-a1b3-a70cc6aed6e7" />
+
+- Step 17: To fulfill the requirements of Task 4, two separate date tables, namely Date Table 1 and Date Table 2, were generated using the CALENDARAUTO() function.
+
+- Step 18: An active relationship was developed for Date Table 1, whereas Date Table 2 was maintained with an inactive relationship.
+
+- Step 19: To visualize Sales, Profit, and Quantity Sold over the selected period, a clustered column chart was utilized.
+
+- Step 20: A DAX measure was developed using CALCULATE, ALL, and USERELATIONSHIP functions to activate and leverage the inactive relationship associated with Date Table 2.
+
+
+		Sum of Net Sales = CALCULATE(SUM('Fact Table'[Net Sales ]), ALL('Date Table 1'[Date]), USERELATIONSHIP('Date Table 2'[Date], 'Fact Table'[Date (dd/mm/yyyy)]))
+
+- Step 21: Similarly, to analyze total profit by Date Filter 1, I used a column chart and created a DAX measure with CALCULATE, ALL, and USERELATIONSHIP functions to enable the inactive relationship with Date Filter 2.
+
+
+		Sum Of Profit = CALCULATE(SUM('Fact Table'[Profit]), ALL('Date Table 1'[Date]), USERELATIONSHIP('Date Table 2'[Date],'Fact Table'[Date (dd/mm/yyyy)]))
+
+
+- Step 22: Similar steps were followed to calculate total units sold for Date Table 1, along with creating a measure to utilize Date Filter 2.
+
+		Total Unit sold = CALCULATE(SUM('Fact Table'[Units Sold]), ALL('Date Table 1'[Date]), USERELATIONSHIP('Date Table 2'[Date], 'Fact Table'[Date (dd/mm/yyyy)]))
+
+ # Report Snapshot (Power BI DESKTOP)
+
