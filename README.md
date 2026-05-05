@@ -112,7 +112,10 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 <img width="913" height="505" alt="Image" src="https://github.com/user-attachments/assets/86d3f12d-e9a8-4ed2-a8ce-2d15088ad30b" />
 
 
+- Step 23: To meet the requirements of Task 4 using the second approach, two date filters were implemented to allow selection of different date ranges, without increasing the overall model size.
 
+- Step 24: Bar charts were utilized to present total sales, profit, and quantity sold. The Edit Interactions functionality was used to remove cross-interactions between visuals for different date selections, enabling independent date filtering.
 
 <img width="980" height="665" alt="Image" src="https://github.com/user-attachments/assets/11bc7efb-18b3-485a-9b3f-344b45b97e36" />
+
 <img width="976" height="672" alt="Image" src="https://github.com/user-attachments/assets/501c6e7b-4e78-4828-bc88-255266997834" />
