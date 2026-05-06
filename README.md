@@ -119,3 +119,13 @@ In this project, I will take on the role of a Data Analyst at ElectroHub, focusi
 <img width="980" height="665" alt="Image" src="https://github.com/user-attachments/assets/11bc7efb-18b3-485a-9b3f-344b45b97e36" />
 
 <img width="976" height="672" alt="Image" src="https://github.com/user-attachments/assets/501c6e7b-4e78-4828-bc88-255266997834" />
+
+Step 25: To complete Requirement 7, a table visual was used to display detailed data for each order, along with visual-level filters. Additionally, slicers were implemented to enable filtering by Date, Customer Name, Product Name, and Promotion Name.
+
+Step 26: In the Model view, since the cross-filter direction was set to single, measures were implemented to simulate dynamic interaction between slicers and ensure consistent filtering across all visuals.
+    		
+		Dim Sum = SUM('Fact Table'[Net Sales ])
+
+
+Step 27: The above measure was applied in the filter pane of all four slicers, ensuring that they interact dynamically and respond consistently to each other’s selections.
+
