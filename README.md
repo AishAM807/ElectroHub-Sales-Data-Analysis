@@ -129,3 +129,8 @@ Step 26: In the Model view, since the cross-filter direction was set to single, 
 
 Step 27: The above measure was applied in the filter pane of all four slicers, ensuring that they interact dynamically and respond consistently to each other’s selections.
 
+<img width="963" height="461" alt="Image" src="https://github.com/user-attachments/assets/432ecfbf-74d4-4df3-9baa-d793f086629c" />
+
+ # Report Snapshot (Power BI DESKTOP)
+ 
+<img width="918" height="500" alt="Image" src="https://github.com/user-attachments/assets/6d41cf2d-c2d5-4119-b304-631efd90377b" />
