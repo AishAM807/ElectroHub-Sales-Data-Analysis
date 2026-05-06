@@ -215,3 +215,9 @@ Interactive slicers allow filtering by:
 - Promotion
 Insight:
 👉 Enables dynamic analysis and better decision-making
+
+🔚 Conclusion
+
+This project provides a data-driven sales analysis dashboard for ElectroHub, enabling clear insights into performance across products, regions, and time periods. The analysis shows that high-value electronic products drive most revenue and profit, while promotional strategies—especially flash sales—significantly boost performance.
+
+Sales are concentrated in major cities, indicating strong urban demand and opportunities for regional expansion. Overall, the dashboard supports better decision-making by identifying growth trends, optimizing strategies, and improving business performance.
