@@ -134,3 +134,84 @@ Step 27: The above measure was applied in the filter pane of all four slicers, e
  # Report Snapshot (Power BI DESKTOP)
  
 <img width="918" height="500" alt="Image" src="https://github.com/user-attachments/assets/6d41cf2d-c2d5-4119-b304-631efd90377b" />
+
+
+# Insights:
+
+🔹 1. Sales, Profit & Quantity Comparison (Date Filter Analysis)
+- The comparison between the two selected date ranges shows higher performance in the second period:
+- Total Sales increased from 103M → 113M
+- Total Profit increased from 10.3M → 11.3M
+- Units Sold increased from 6.1K → 6.6K
+- This indicates overall business growth and improved demand in the later period.
+
+🔹 2. Top & Bottom Product Performance
+✅ Top Performing Products
+Apple iPhone 14 is the best-performing product across:
+- Sales (~21.4M)
+- Profit (~2.1M)
+- Quantity sold (281 units)
+- Other strong performers:
+- Apple MacBook Air
+- Sony Bravia 55” TV
+- Samsung Galaxy S21
+Insight:
+👉 Electronics (especially premium Apple products) dominate revenue and profitability.
+
+🔹 3. Quantity vs Profit Observation
+Some products (e.g., Nivea Body Lotion) show high quantity but low profit
+Indicates:
+👉 High sales volume does not always translate into high profitability
+👉 Margins are lower for certain categories
+
+🔹 4. Sales Distribution by City
+Major sales are concentrated in metro cities:
+- Mumbai
+- Delhi
+- Bangalore
+- Hyderabad
+Insight:
+👉 Urban regions drive the majority of revenue
+👉 Opportunity to expand in tier-2 and tier-3 cities
+
+🔹 5. Promotion Effectiveness
+Weekend Flash Sale generates the highest discount impact (~23K)
+Followed by:
+- Clearance Sale (~18K)
+- Summer Sale (~7K)
+- Least effective:
+- Festive Diwali (~1K)
+Insight:
+👉 Short-term aggressive promotions perform better than seasonal campaigns
+
+
+🔹 6. Orders Overview
+Total number of orders: 3510
+Insight:
+👉 Strong order volume indicates consistent customer demand
+
+🔹 7. Profit vs Net Sales Relationship
+Strong positive linear relationship between profit and net sales
+Insight:
+👉 Profit grows proportionally with sales
+👉 Indicates stable pricing and margin strategy
+
+🔹 8. Sales Trend Over Time
+- Sales trend shows:
+- Stable performance from 2020 to 2023
+- Peak around 2023 (~32M)
+- Sharp drop in 2024
+Insight:
+👉 Possible reasons for decline:
+- Incomplete data for 2024
+- Seasonal slowdown
+- Business or market changes
+
+🔹 9. Data & Filtering Capability
+Interactive slicers allow filtering by:
+- Date
+- Customer
+- Product
+- Promotion
+Insight:
+👉 Enables dynamic analysis and better decision-making
